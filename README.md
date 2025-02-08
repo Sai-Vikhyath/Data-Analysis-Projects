@@ -25,9 +25,11 @@ Database: MySQL.
 ## Repository Structure
 project_1: Exploratory Data Analysis (EDA) for data science and ML. 
 
-project_2: Analyzing and Enhancing the Fuel Economy Data.
+Project_2: Data Analysis with Banking.
 
-project_3: Sales Performances Analysis and Dashboard Development using Power BI.
+project_3: Analyzing and Enhancing the Fuel Economy Data.
+
+project_4: Sales Performances Analysis and Dashboard Development using Power BI.
 
 Each project contains the following:
 
