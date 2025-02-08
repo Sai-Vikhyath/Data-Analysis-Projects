@@ -29,6 +29,9 @@ project_1: Exploratory Data Analysis (EDA) for data science and ML.
   - I have worked with the diabetes dataset to implement data preprocessing, handle missing values, perform one-hot encoding, and generate key visualizations.
 
 Project_2: Data Analysis with Banking.
+ - This project explores a banking dataset to analyze customer responses to telemarketing campaigns using Pandas.
+ - Key tasks include calculating the average call duration, customer age, and response rates, as well as creating pivot tables and visualizations to gain insights into client behavior.
+ - The project leverages data exploration techniques to help plan more effective marketing strategies for banks.
 
 project_3: Analyzing and Enhancing the Fuel Economy Data.
 
