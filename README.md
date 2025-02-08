@@ -24,6 +24,9 @@ Database: MySQL.
 
 ## Repository Structure
 project_1: Exploratory Data Analysis (EDA) for data science and ML. 
+  - This project provides a comprehensive guide to performing Exploratory Data Analysis (EDA) using Python, with a focus on both regression and classification tasks.
+  - I have worked with the diabetes dataset to implement data preprocessing, handle missing values, perform one-hot encoding, and generate key visualizations.
+  - Additionally, EDA techniques are applied to the iris dataset for classification, enabling the enhancement of predictive models through detailed data insights and feature engineering.
 
 Project_2: Data Analysis with Banking.
 
